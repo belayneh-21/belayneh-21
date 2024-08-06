@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Belayneh</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=belayneh-21&label=Profile%20views&color=0e75b6&style=flat" alt="belayneh-21" /> </p>
+
 - 🌱 I’m currently learning **software Engineering**
 
 - 📫 How to reach me **belasewareg@gmail.com**
